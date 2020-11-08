@@ -1,0 +1,35 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function(){var s = {};(function(){/*  Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ var c={},f=this||self;var l=/#|$/;function n(d){var g=d.search(l),a;a:{for(a=0;0<=(a=d.indexOf("fmt",a))&&a<g;){var b=d.charCodeAt(a-1);if(38==b||63==b)if(b=d.charCodeAt(a+3),!b||61==b||38==b||35==b)break a;a+=4}a=-1}if(0>a)return null;b=d.indexOf("&",a);if(0>b||b>g)b=g;a+=4;return decodeURIComponent(d.substr(a,b-a).replace(/\+/g," "))};function r(d,g,a){function b(){--p;if(0>=p){var e;(e=d.GooglebQhCsO)||(e={});var q=e[g];q&&(delete e[g],(e=q[0])&&e.call&&e())}}for(var p=a.length+1,m=0;m<a.length;m++){var h=n(a[m]),k=null;1!=h&&2!=h||!(h=d.document.getElementById("goog_conv_iframe"))||h.src||(k=h);k||(k=new Image);k.onload=b;k.src=a[m]}b()}var t=["ss_"],u=s||f;t[0]in u||"undefined"==typeof u.execScript||u.execScript("var "+t[0]); for(var v;t.length&&(v=t.shift());)t.length||void 0===r?u[v]&&u[v]!==Object.prototype[v]?u=u[v]:u=u[v]={}:u[v]=r;}).call(this);;s.ss_(window,'OjE1MDgwOTMwMjM5Njk',['https://web.archive.org/web/20201107073703/https://www.google.com/pagead/1p-user-list/941576774/?random\x3d1508093023969\x26cv\x3d9\x26fst\x3d1508090400000\x26num\x3d1\x26guid\x3dON\x26eid\x3d659255991\x26u_h\x3d900\x26u_w\x3d1440\x26u_ah\x3d877\x26u_aw\x3d1440\x26u_cd\x3d24\x26u_his\x3d1\x26u_tz\x3d0\x26u_java\x3dfalse\x26u_nplug\x3d3\x26u_nmime\x3d4\x26gtm\x3d2wgbc0\x26sendb\x3d1\x26frm\x3d0\x26url\x3dhttps%3A%2F%2Fpaypertrail.com%2F\x26tiba\x3dPayPerTrail+-+Display+%26+Native+Advertising+Spy+Tool\x26async\x3d1\x26fmt\x3d3\x26is_vtc\x3d1\x26random\x3d4241666003\x26resp\x3dGooglemKTybQhCsO\x26rmt_tld\x3d0\x26ipr\x3dy']);})();
+
+}
+/*
+     FILE ARCHIVED ON 07:37:03 Nov 07, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:37:09 Nov 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 39.886 (3)
+  exclusion.robots.policy: 0.224
+  exclusion.robots: 0.239
+  captures_list: 130.866
+  esindex: 0.012
+  RedisCDXSource: 2.137
+  CDXLines.iter: 42.83 (3)
+  load_resource: 16.615
+  LoadShardBlock: 81.636 (3)
+*/
